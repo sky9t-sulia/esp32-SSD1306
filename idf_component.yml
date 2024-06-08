@@ -1,0 +1,4 @@
+description: ESP32 compatible driver for SSD1306 OLED display
+repository: https://github.com/sky9t-sulia/ssd1306.git
+url: https://github.com/sky9t-sulia/ssd1306.git
+version: 1.0.0
